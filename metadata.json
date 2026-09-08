@@ -1,0 +1,6 @@
+{
+  "name": "Shop Floor Performance Dashboard",
+  "description": "Real-time CNC cell performance and machine status dashboard with live OEE metrics, downtime tracking, timeline Gantt boards, and machine telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
